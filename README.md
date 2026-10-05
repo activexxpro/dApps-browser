@@ -3,7 +3,7 @@ DApps browser
 
 ## Get Started
 ```
-git clone https://github.com/activepro/dApps-browser.git
+git clone https://github.com/activexxpro/dApps-browser.git
 cd dApps-browser
 npm install
 npm start
